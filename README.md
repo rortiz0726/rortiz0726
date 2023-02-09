@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h3 align="center">Just having fun hehe :3</h3>
 
-<!--
-**rortiz0726/rortiz0726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **School projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **css, http and javascript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **school work**
+
+- 💬 Ask me about **favorite food**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
