@@ -9,6 +9,6 @@
 
 - 💬 Ask me about **favorite food**
 
-<h3 align="left">Just having fun:</h3>
+<h3 align="left">Just having fun</h3>
 <p align="left">
 </p>
